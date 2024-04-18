@@ -255,3 +255,10 @@ gempak/utilities/bounds/vgftobnd
 gempak/utilities/hlpbld/hlpbld
 gempak/utilities/pdfbld/pdfbld
 
+ldm/etc/pqact.gempak
+extlibs/JasPer/v*
+extlibs/JasPer/jasper
+extlibs/xml2/libxml2*
+extlibs/xslt/libxslt*
+extlibs/zlib/v*
+extlibs/zlib/zlib
